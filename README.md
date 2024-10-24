@@ -4,7 +4,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vinay__gowda501) [![LinkedIn] (https://www.linkedin.com/in/vinay-kv-12b43632a/)](https://linkedin.com/in/Vinay KV) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vinay__gowda501) [![LinkedIn](https://www.linkedin.com/in/vinay-kv-12b43632a/)](https://linkedin.com/in/Vinay KV) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@SimplyMe222024) 
 
 # 💻 Tech Stack:
