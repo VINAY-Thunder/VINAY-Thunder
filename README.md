@@ -1,5 +1,5 @@
-## Hi there 👋  , 
-💫 About Me:
+## Hi there 👋 
+# 💫 About Me:
 🍁I'm currently  Learning Android App Development.
 
 
