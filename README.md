@@ -1,6 +1,6 @@
 ## Hi there 👋 
 # 💫 About Me:
-🍁I'm currently  Learning Android App Development.
+🍁I'm currently  Learning java Backend Development.
 
 
 ## 🌐 Socials:
