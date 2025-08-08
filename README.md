@@ -1,5 +1,5 @@
 ## Hi there 👋 
-# 💫 About Me: Hi, folks! I'm good at something that I learned by myself just out of curiosity and passion. Learning different tech stacks and understanding how things work in the real world really excites me.
+# 💫 About Me: Hi, folks! I'm good at something that I learned by myself just out of curiosity and passion. Learning Tech stack and understanding how things work in the real world really excites me.
 🍁I'm currently  Learning java Backend Development.
 
 
