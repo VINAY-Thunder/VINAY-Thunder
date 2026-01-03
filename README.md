@@ -14,7 +14,7 @@
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
-<StackIcon name="spring" />
+[<StackIcon name="spring" />](https://img.icons8.com/?size=100&id=90519&format=png&color=000000)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=VINAY-Thunder&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VINAY-Thunder&theme=monokai&hide_border=false)<br/>
